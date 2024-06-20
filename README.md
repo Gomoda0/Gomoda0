@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+En proceso de formacion como ingeniero de Full Stack
+
 <!--
 **Gomoda0/Gomoda0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
